@@ -16,7 +16,7 @@ sudo mv kbd
 ```
 
 ## Usage
-kbdbl <brigthness> Where brightness is between 0 (off) and 5 (brightest)
+kbdbl \<brigthness\> Where brightness is between 0 (off) and 5 (brightest)
 Examples:
 kbdbl 0
 kbdbl 3
